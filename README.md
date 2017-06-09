@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ResNet in Tensorflow
 
 This implementation of [resnet](http://arxiv.org/abs/1512.03385) and [its variants](https://arxiv.org/abs/1603.05027)  is designed to be straightforward and friendly to new ResNet users. You can train a resnet on cifar10 by downloading and running the code. There are screen outputs, tensorboard statistics and tensorboard graph visualization to help you monitor the training process and visualize the model.
@@ -158,6 +159,10 @@ Run the following commands in the command line:
 python cifar10_train.py --test_ckpt_path='model_110.ckpt-79999'
 ```
    
+=======
+# deepRisdalnet
+32×32的image
+>>>>>>> a9e0c336f48bf0ff80764a36bc95db47ed049bd6
 =======
 # deepRisdalnet
 32×32的image
